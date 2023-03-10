@@ -38,10 +38,6 @@ a:focus-visible {
 }
 body {
   background: linear-gradient(90deg, #2b5876 0%, #4e4376 100%);
-  background-attachment: fixed;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeSpeed;
   font-family: "Poppins", system-ui, -apple-system, BlinkMacSystemFont,
